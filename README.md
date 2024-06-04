@@ -53,19 +53,20 @@ This endeavor is significant for enabling data-driven decision-making, leading t
 - **Novel Engineering**: We split the date column into multiple columns like Year, Month, Weekday, Hour, Monthly_Quarter, and Hourly_Segments to enrich our dataset into valuable segments for clearer analysis.
 - **Innovative Visualization Techniques**: Using folium for geographic analysis visualization.
   
-  ![Geographic Visualization](![image](https://github.com/tanzealist/Uber-Fare-predictor/assets/114698958/571386b6-4d21-48cc-bd5c-391e07801520)
-)
+  (![image](https://github.com/tanzealist/Uber-Fare-predictor/assets/114698958/571386b6-4d21-48cc-bd5c-391e07801520)
+
 
 - **Interactive Dashboards**: Created dynamic, user-interactive dashboards for real-time data exploration using dash. Created an interactive dashboard where you can view the passenger count and fare amount comparison year and weekday-wise.
   
-  ![Interactive Dashboard](![image](https://github.com/tanzealist/Uber-Fare-predictor/assets/114698958/d1951e1d-519d-4ece-b08a-dd4e78f53bfc)
-)
+  (![image](https://github.com/tanzealist/Uber-Fare-predictor/assets/114698958/d1951e1d-519d-4ece-b08a-dd4e78f53bfc)
+
 
 - **Novel Feature Engineering**: Devised new features like rush-hour and fare efficiency for nuanced insights.
 - **Algorithmic Innovation**: `RandomizedSearchCV` and `GridSearchCV` methods for hyperparameter tuning in machine learning models.
 - **Boosting Methods**: `HistGradientBoostingRegressor` and `GradientBoostingRegressor` exhibit superior performance in terms of test R-squared values, indicating their strong generalization capabilities.
   
-  ![Model Performance](path/to/your/model-performance-graph.png)
+  ![image](https://github.com/tanzealist/Uber-Fare-predictor/assets/114698958/0e06ae2b-1e9e-4e27-b65d-001b225823c6)
+
 
 - **Creative Problem Framing**:
   1. **Dynamic Pricing**: Transition from mere analysis to real-time prediction of fare efficiency, incorporating factors like traffic, events, and surge pricing.
