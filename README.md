@@ -1,7 +1,7 @@
 
 # SmartFares: Predictive Pricing for Ride Services
 
-### Tanuj Verma (002726506)
+###  By Tanuj Verma 
 
 ## Project Overview
 
@@ -84,4 +84,4 @@ Based on the analysis of the model performance, we can conclude the following:
 These insights can guide future iterations of the modeling process, prompting considerations such as additional feature engineering, alternative model selection, or further hyperparameter tuning to enhance predictive performance.
 ```
 
-Make sure to replace the placeholder paths like `path/to/your/folium-visualization.png`, `path/to/your/dashboard-screenshot.png`, and `path/to/your/model-performance-graph.png` with the actual paths to your images.
+
