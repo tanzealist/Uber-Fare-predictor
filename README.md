@@ -1,5 +1,5 @@
 
-# Optimizing Ride-Hailing Fares with Predictive Analytics
+# SmartFares: Predictive Pricing for Ride Services
 
 ### Tanuj Verma (002726506)
 
